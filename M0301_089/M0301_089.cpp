@@ -50,7 +50,7 @@ int main()
     List myList;
     myList.addNode(5);
     myList.addNode(11);
-    myList.addNode(27);
+    myList.addNode(26);
     myList.printList();
     return 0;
 }
