@@ -1,3 +1,7 @@
+/*
+Пример из Скиены
+Рекурсивное возведение в степень
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
